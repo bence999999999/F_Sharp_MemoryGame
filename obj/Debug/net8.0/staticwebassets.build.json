@@ -1,0 +1,743 @@
+{
+  "Version": 1,
+  "Hash": "Moib1TPEqh6HbPxP81ai3GrU86XZIyu59i5IK1tihjo=",
+  "Source": "MemoryGameSPA",
+  "BasePath": "_content/MemoryGameSPA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MemoryGameSPA\\wwwroot",
+      "Source": "MemoryGameSPA",
+      "ContentRoot": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\",
+      "BasePath": "_content/MemoryGameSPA",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\index.html",
+      "SourceId": "MemoryGameSPA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\",
+      "BasePath": "_content/MemoryGameSPA",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "55kzif0jo4",
+      "Integrity": "uf5cXlFZflN1IXJV6pMC0NucAcpGAG9QkvR0hw6bBi8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\MemoryGameSPA.css",
+      "SourceId": "MemoryGameSPA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\",
+      "BasePath": "_content/MemoryGameSPA",
+      "RelativePath": "Scripts/MemoryGameSPA#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "epqg14kmkr",
+      "Integrity": "MtzW9iz8voxuGqv3rc2Frbu2b48h7SodUbM1+c3+wJ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\MemoryGameSPA.css"
+    },
+    {
+      "Identity": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\MemoryGameSPA.head.html",
+      "SourceId": "MemoryGameSPA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\",
+      "BasePath": "_content/MemoryGameSPA",
+      "RelativePath": "Scripts/MemoryGameSPA.head#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\MemoryGameSPA.head.html"
+    },
+    {
+      "Identity": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\MemoryGameSPA.head.js",
+      "SourceId": "MemoryGameSPA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\",
+      "BasePath": "_content/MemoryGameSPA",
+      "RelativePath": "Scripts/MemoryGameSPA.head#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j7k5w70rl7",
+      "Integrity": "ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV+jiRsQ9FmgBc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\MemoryGameSPA.head.js"
+    },
+    {
+      "Identity": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\MemoryGameSPA.js",
+      "SourceId": "MemoryGameSPA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\",
+      "BasePath": "_content/MemoryGameSPA",
+      "RelativePath": "Scripts/MemoryGameSPA#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "siqeshgdq8",
+      "Integrity": "PMIe9CTXEl+zzYnKyod9NBl4k9IQ9SttKsbtidyKEpA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\MemoryGameSPA.js"
+    },
+    {
+      "Identity": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\MemoryGameSPA.min.js",
+      "SourceId": "MemoryGameSPA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\",
+      "BasePath": "_content/MemoryGameSPA",
+      "RelativePath": "Scripts/MemoryGameSPA.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ria06b3waj",
+      "Integrity": "QzdalNea249qU5ogCIAX/WtrRJpxzg3qnWdy0aITr5s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\MemoryGameSPA.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\WebSharper.Core.JavaScript\\Runtime.js",
+      "SourceId": "MemoryGameSPA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\",
+      "BasePath": "_content/MemoryGameSPA",
+      "RelativePath": "Scripts/WebSharper.Core.JavaScript/Runtime#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ye3nh9ay57",
+      "Integrity": "CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\WebSharper.Core.JavaScript\\Runtime.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.55kzif0jo4.html",
+      "AssetFile": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uf5cXlFZflN1IXJV6pMC0NucAcpGAG9QkvR0hw6bBi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 08:44:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "55kzif0jo4"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uf5cXlFZflN1IXJV6pMC0NucAcpGAG9QkvR0hw6bBi8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uf5cXlFZflN1IXJV6pMC0NucAcpGAG9QkvR0hw6bBi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 08:44:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uf5cXlFZflN1IXJV6pMC0NucAcpGAG9QkvR0hw6bBi8="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/MemoryGameSPA.css",
+      "AssetFile": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\MemoryGameSPA.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MtzW9iz8voxuGqv3rc2Frbu2b48h7SodUbM1+c3+wJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 19:39:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MtzW9iz8voxuGqv3rc2Frbu2b48h7SodUbM1+c3+wJ8="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/MemoryGameSPA.epqg14kmkr.css",
+      "AssetFile": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\MemoryGameSPA.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MtzW9iz8voxuGqv3rc2Frbu2b48h7SodUbM1+c3+wJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 19:39:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "epqg14kmkr"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/MemoryGameSPA.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MtzW9iz8voxuGqv3rc2Frbu2b48h7SodUbM1+c3+wJ8="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/MemoryGameSPA.head.5ipweew5fc.html",
+      "AssetFile": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\MemoryGameSPA.head.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 19:39:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/MemoryGameSPA.head.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/MemoryGameSPA.head.html",
+      "AssetFile": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\MemoryGameSPA.head.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 19:39:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/MemoryGameSPA.head.j7k5w70rl7.js",
+      "AssetFile": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\MemoryGameSPA.head.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV+jiRsQ9FmgBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 19:39:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j7k5w70rl7"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/MemoryGameSPA.head.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV+jiRsQ9FmgBc="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/MemoryGameSPA.head.js",
+      "AssetFile": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\MemoryGameSPA.head.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV+jiRsQ9FmgBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 19:39:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV+jiRsQ9FmgBc="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/MemoryGameSPA.js",
+      "AssetFile": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\MemoryGameSPA.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PMIe9CTXEl+zzYnKyod9NBl4k9IQ9SttKsbtidyKEpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 19:39:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PMIe9CTXEl+zzYnKyod9NBl4k9IQ9SttKsbtidyKEpA="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/MemoryGameSPA.min.js",
+      "AssetFile": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\MemoryGameSPA.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QzdalNea249qU5ogCIAX/WtrRJpxzg3qnWdy0aITr5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 19:39:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QzdalNea249qU5ogCIAX/WtrRJpxzg3qnWdy0aITr5s="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/MemoryGameSPA.min.ria06b3waj.js",
+      "AssetFile": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\MemoryGameSPA.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QzdalNea249qU5ogCIAX/WtrRJpxzg3qnWdy0aITr5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 19:39:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ria06b3waj"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/MemoryGameSPA.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QzdalNea249qU5ogCIAX/WtrRJpxzg3qnWdy0aITr5s="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/MemoryGameSPA.siqeshgdq8.js",
+      "AssetFile": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\MemoryGameSPA.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PMIe9CTXEl+zzYnKyod9NBl4k9IQ9SttKsbtidyKEpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 19:39:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "siqeshgdq8"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/MemoryGameSPA.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PMIe9CTXEl+zzYnKyod9NBl4k9IQ9SttKsbtidyKEpA="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/WebSharper.Core.JavaScript/Runtime.js",
+      "AssetFile": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\WebSharper.Core.JavaScript\\Runtime.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7571"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 19:39:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/WebSharper.Core.JavaScript/Runtime.ye3nh9ay57.js",
+      "AssetFile": "C:\\Users\\bence\\MemoryGameSPA\\wwwroot\\Scripts\\WebSharper.Core.JavaScript\\Runtime.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7571"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 19:39:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ye3nh9ay57"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/WebSharper.Core.JavaScript/Runtime.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI="
+        }
+      ]
+    }
+  ]
+}
