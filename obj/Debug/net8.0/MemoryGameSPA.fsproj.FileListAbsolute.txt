@@ -66,3 +66,4 @@ C:\Users\bence\MemoryGameSPA\obj\Debug\net8.0\MemoryGa.C8FAA161.Up2Date
 C:\Users\bence\MemoryGameSPA\obj\Debug\net8.0\MemoryGameSPA.dll
 C:\Users\bence\MemoryGameSPA\obj\Debug\net8.0\MemoryGameSPA.pdb
 C:\Users\bence\MemoryGameSPA\obj\Debug\net8.0\MemoryGameSPA.genruntimeconfig.cache
+C:\Users\bence\MemoryGameSPA\obj\Debug\net8.0\MemoryGameSPA.sourcelink.json

@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>epqg14kmkr</Fingerprint>
-      <Integrity>MtzW9iz8voxuGqv3rc2Frbu2b48h7SodUbM1+c3+wJ8=</Integrity>
+      <Fingerprint>2yz8ysfcxr</Fingerprint>
+      <Integrity>BlYebZn82+3doJkEv9wjFawZ8aBFViJ5te5pKvoeCDE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\MemoryGameSPA.css'))</OriginalItemSpec>
@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>siqeshgdq8</Fingerprint>
-      <Integrity>PMIe9CTXEl+zzYnKyod9NBl4k9IQ9SttKsbtidyKEpA=</Integrity>
+      <Fingerprint>ibskzauovw</Fingerprint>
+      <Integrity>oujs5HUO6We23oKi2tMgWmitrTlS/4gRfNyaeJgQ0Sc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\MemoryGameSPA.js'))</OriginalItemSpec>
@@ -102,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ria06b3waj</Fingerprint>
-      <Integrity>QzdalNea249qU5ogCIAX/WtrRJpxzg3qnWdy0aITr5s=</Integrity>
+      <Fingerprint>9ipn3svnms</Fingerprint>
+      <Integrity>4WNYzBxjfHkyf2RS3l7i1ysZBJ2b4GZYkhYd3HuO+ew=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\MemoryGameSPA.min.js'))</OriginalItemSpec>

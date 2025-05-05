@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("MemoryGameSPA")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37362ece9888c713a884783db7b3046bff415c4a")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("MemoryGameSPA")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("MemoryGameSPA")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
