@@ -1,10 +1,10 @@
 ﻿module.exports = {
-  root: "wwwroot/",
+  root: "wwwroot/Sripts",
   build: {
     rollupOptions: {
       input: [
-        "./Scripts/MemoryGameSPA.min.js",
-        "./Scripts/MemoryGameSPA.css"
+        "./MemoryGameSPA.min.js",
+        "./MemoryGameSPA.css"
       ]
     }
   }
