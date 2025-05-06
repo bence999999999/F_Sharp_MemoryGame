@@ -1,3 +1,4 @@
+import './MemoryGameSPA.css';
 import { Start as Start_1 } from "./WebSharper.Core.JavaScript/Runtime.js"
 import { Lazy, Create as Create_1, GetOptional, SetOptional, OnLoad } from "./WebSharper.Core.JavaScript/Runtime.js"
 function isIDisposable(x){
@@ -3499,4 +3500,3 @@ OnLoad(() => {
   Main();
 });
 Start_1();
-
