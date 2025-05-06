@@ -1,5 +1,5 @@
 ﻿module.exports = {
-  root: "wwwroot",
+  root: "wwwroot/",
   build: {
     rollupOptions: {
       input: [
