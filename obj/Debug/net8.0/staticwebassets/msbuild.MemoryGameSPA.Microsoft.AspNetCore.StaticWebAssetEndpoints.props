@@ -16,73 +16,73 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\MemoryGameSPA.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2yz8ysfcxr"},{"Name":"integrity","Value":"sha256-BlYebZn82\u002B3doJkEv9wjFawZ8aBFViJ5te5pKvoeCDE="},{"Name":"label","Value":"_content/MemoryGameSPA/Scripts/MemoryGameSPA.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1402"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BlYebZn82\u002B3doJkEv9wjFawZ8aBFViJ5te5pKvoeCDE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 00:20:25 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1402"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BlYebZn82\u002B3doJkEv9wjFawZ8aBFViJ5te5pKvoeCDE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 02:28:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MemoryGameSPA/Scripts/MemoryGameSPA.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\MemoryGameSPA.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BlYebZn82\u002B3doJkEv9wjFawZ8aBFViJ5te5pKvoeCDE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1402"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BlYebZn82\u002B3doJkEv9wjFawZ8aBFViJ5te5pKvoeCDE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 00:20:25 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1402"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BlYebZn82\u002B3doJkEv9wjFawZ8aBFViJ5te5pKvoeCDE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 02:28:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MemoryGameSPA/Scripts/MemoryGameSPA.head.5ipweew5fc.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\MemoryGameSPA.head.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5ipweew5fc"},{"Name":"integrity","Value":"sha256-47DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU="},{"Name":"label","Value":"_content/MemoryGameSPA/Scripts/MemoryGameSPA.head.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u002247DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 23:48:58 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u002247DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 02:28:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MemoryGameSPA/Scripts/MemoryGameSPA.head.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\MemoryGameSPA.head.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-47DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u002247DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 23:48:58 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u002247DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 02:28:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MemoryGameSPA/Scripts/MemoryGameSPA.head.j7k5w70rl7.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\MemoryGameSPA.head.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j7k5w70rl7"},{"Name":"integrity","Value":"sha256-ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV\u002BjiRsQ9FmgBc="},{"Name":"label","Value":"_content/MemoryGameSPA/Scripts/MemoryGameSPA.head.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV\u002BjiRsQ9FmgBc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 23:48:58 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV\u002BjiRsQ9FmgBc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 02:28:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MemoryGameSPA/Scripts/MemoryGameSPA.head.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\MemoryGameSPA.head.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV\u002BjiRsQ9FmgBc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"20"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV\u002BjiRsQ9FmgBc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 23:48:58 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"20"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV\u002BjiRsQ9FmgBc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 02:28:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MemoryGameSPA/Scripts/MemoryGameSPA.ibskzauovw.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\MemoryGameSPA.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ibskzauovw"},{"Name":"integrity","Value":"sha256-oujs5HUO6We23oKi2tMgWmitrTlS/4gRfNyaeJgQ0Sc="},{"Name":"label","Value":"_content/MemoryGameSPA/Scripts/MemoryGameSPA.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"95594"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022oujs5HUO6We23oKi2tMgWmitrTlS/4gRfNyaeJgQ0Sc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 23:48:58 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"95594"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022oujs5HUO6We23oKi2tMgWmitrTlS/4gRfNyaeJgQ0Sc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 02:28:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MemoryGameSPA/Scripts/MemoryGameSPA.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\MemoryGameSPA.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oujs5HUO6We23oKi2tMgWmitrTlS/4gRfNyaeJgQ0Sc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"95594"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022oujs5HUO6We23oKi2tMgWmitrTlS/4gRfNyaeJgQ0Sc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 23:48:58 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"95594"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022oujs5HUO6We23oKi2tMgWmitrTlS/4gRfNyaeJgQ0Sc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 02:28:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MemoryGameSPA/Scripts/MemoryGameSPA.min.9ipn3svnms.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\MemoryGameSPA.min.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9ipn3svnms"},{"Name":"integrity","Value":"sha256-4WNYzBxjfHkyf2RS3l7i1ysZBJ2b4GZYkhYd3HuO\u002Bew="},{"Name":"label","Value":"_content/MemoryGameSPA/Scripts/MemoryGameSPA.min.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"64589"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224WNYzBxjfHkyf2RS3l7i1ysZBJ2b4GZYkhYd3HuO\u002Bew=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 23:48:59 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"64589"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224WNYzBxjfHkyf2RS3l7i1ysZBJ2b4GZYkhYd3HuO\u002Bew=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 02:28:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MemoryGameSPA/Scripts/MemoryGameSPA.min.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\MemoryGameSPA.min.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4WNYzBxjfHkyf2RS3l7i1ysZBJ2b4GZYkhYd3HuO\u002Bew="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"64589"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224WNYzBxjfHkyf2RS3l7i1ysZBJ2b4GZYkhYd3HuO\u002Bew=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 23:48:59 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"64589"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224WNYzBxjfHkyf2RS3l7i1ysZBJ2b4GZYkhYd3HuO\u002Bew=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 02:28:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MemoryGameSPA/Scripts/WebSharper.Core.JavaScript/Runtime.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\WebSharper.Core.JavaScript\Runtime.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7571"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 23:48:59 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7571"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 02:28:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MemoryGameSPA/Scripts/WebSharper.Core.JavaScript/Runtime.ye3nh9ay57.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\WebSharper.Core.JavaScript\Runtime.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ye3nh9ay57"},{"Name":"integrity","Value":"sha256-CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI="},{"Name":"label","Value":"_content/MemoryGameSPA/Scripts/WebSharper.Core.JavaScript/Runtime.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7571"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 23:48:59 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7571"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 02:28:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

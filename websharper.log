@@ -1,27 +1,27 @@
-2025-05-05 01:48:53.5118|DEBUG|Program|location of wsfscservice is: C:\Users\bence\.nuget\packages\websharper.fsharp\9.0.0.547\tools\net8.0\win-x64 (server side)
-2025-05-05 01:48:53.5118|DEBUG|Program|pipename is: 24d286331b77927b98e28df748e654a2 (server side)
-2025-05-05 01:48:53.5118|DEBUG|Program|Compiling C:\Users\bence\MemoryGameSPA\MemoryGameSPA.fsproj
-2025-05-05 01:48:56.5057|TRACE|Program|Server sends: n: F# compilation: 00:00:03.0051011
-2025-05-05 01:48:58.2280|TRACE|Program|Server sends: n: Checking project: 00:00:01.7224517
-2025-05-05 01:48:58.2280|TRACE|Program|Server sends: n: Waiting on merged metadata: 00:00:00.0022282
-2025-05-05 01:48:58.3487|TRACE|Program|Server sends: n: Parsing with FCS: 00:00:00.1184777
-2025-05-05 01:48:58.3487|TRACE|Program|Server sends: n: Analyzing function arguments: 00:00:00.0011934
-2025-05-05 01:48:58.3487|TRACE|Program|Server sends: n: Resolving names: 00:00:00.0020346
-2025-05-05 01:48:58.3768|TRACE|Program|Server sends: n: WebSharper translation: 00:00:00.0248187
-2025-05-05 01:48:58.3843|TRACE|Program|Server sends: n: Source position transformations: 00:00:00.0075678
-2025-05-05 01:48:58.3843|TRACE|Program|Server sends: n: Packaging assembly: 00:00:00.0031687
-2025-05-05 01:48:58.4633|TRACE|Program|Server sends: n: Computing metadata: 00:00:00.0757698
-2025-05-05 01:48:58.4633|TRACE|Program|Server sends: n: Writing reexports root.js: 00:00:00.0015693
-2025-05-05 01:48:58.4633|TRACE|Program|Server sends: n: Writing MemoryGameSPA.MemoryGameSPA.Card.js: 00:00:00.0072000
-2025-05-05 01:48:58.4742|TRACE|Program|Server sends: n: Writing MemoryGameSPA.MemoryGameSPA.Player.js: 00:00:00.0021090
-2025-05-05 01:48:58.4742|TRACE|Program|Server sends: n: Writing MemoryGameSPA.MemoryGameSPA.GameState.js: 00:00:00.0011177
-2025-05-05 01:48:58.4742|TRACE|Program|Server sends: n: Writing MemoryGameSPA.MemoryGameSPA.js: 00:00:00.0012611
-2025-05-05 01:48:58.4742|TRACE|Program|Server sends: n: Writing MemoryGameSPA.Mainmodule.js: 00:00:00.0011569
-2025-05-05 01:48:58.4742|TRACE|Program|Server sends: n: Writing $StartupCode_Client.js: 00:00:00.0012716
-2025-05-05 01:48:58.4742|TRACE|Program|Server sends: n: Writing $EntryPoint.js: 00:00:00.0012523
-2025-05-05 01:48:58.4742|TRACE|Program|Server sends: n: Writing .d.ts files: 00:00:00.0037407
-2025-05-05 01:48:58.4742|TRACE|Program|Server sends: n: Hashing resources: 00:00:00.0013668
-2025-05-05 01:48:58.7360|TRACE|Program|Server sends: n: Serializing metadata: 00:00:00.2506579
-2025-05-05 01:48:58.7607|TRACE|Program|Server sends: n: Writing resources into assembly: 00:00:00.0247550
-2025-05-05 01:48:59.0463|TRACE|Program|Server sends: n: Bundling: 00:00:00.2855987
-2025-05-05 01:48:59.1121|TRACE|Program|Server sends: x: 0
+2025-05-05 04:28:11.3702|DEBUG|Program|location of wsfscservice is: C:\Users\bence\.nuget\packages\websharper.fsharp\9.0.0.547\tools\net8.0\win-x64 (server side)
+2025-05-05 04:28:11.3702|DEBUG|Program|pipename is: 24d286331b77927b98e28df748e654a2 (server side)
+2025-05-05 04:28:11.3702|DEBUG|Program|Compiling C:\Users\bence\MemoryGameSPA\MemoryGameSPA.fsproj
+2025-05-05 04:28:15.0341|TRACE|Program|Server sends: n: F# compilation: 00:00:03.6699148
+2025-05-05 04:28:15.7031|TRACE|Program|Server sends: n: Checking project: 00:00:00.6691058
+2025-05-05 04:28:15.7031|TRACE|Program|Server sends: n: Waiting on merged metadata: 00:00:00.0032820
+2025-05-05 04:28:15.8713|TRACE|Program|Server sends: n: Parsing with FCS: 00:00:00.1649510
+2025-05-05 04:28:15.8713|TRACE|Program|Server sends: n: Analyzing function arguments: 00:00:00.0011785
+2025-05-05 04:28:15.8713|TRACE|Program|Server sends: n: Resolving names: 00:00:00.0020819
+2025-05-05 04:28:15.9008|TRACE|Program|Server sends: n: WebSharper translation: 00:00:00.0262115
+2025-05-05 04:28:15.9008|TRACE|Program|Server sends: n: Source position transformations: 00:00:00.0029755
+2025-05-05 04:28:15.9008|TRACE|Program|Server sends: n: Packaging assembly: 00:00:00.0028168
+2025-05-05 04:28:15.9970|TRACE|Program|Server sends: n: Computing metadata: 00:00:00.0903790
+2025-05-05 04:28:15.9970|TRACE|Program|Server sends: n: Writing reexports root.js: 00:00:00.0020212
+2025-05-05 04:28:15.9970|TRACE|Program|Server sends: n: Writing MemoryGameSPA.MemoryGameSPA.Card.js: 00:00:00.0054224
+2025-05-05 04:28:16.0055|TRACE|Program|Server sends: n: Writing MemoryGameSPA.MemoryGameSPA.Player.js: 00:00:00.0011289
+2025-05-05 04:28:16.0055|TRACE|Program|Server sends: n: Writing MemoryGameSPA.MemoryGameSPA.GameState.js: 00:00:00.0011302
+2025-05-05 04:28:16.0055|TRACE|Program|Server sends: n: Writing MemoryGameSPA.MemoryGameSPA.js: 00:00:00.0011922
+2025-05-05 04:28:16.0055|TRACE|Program|Server sends: n: Writing MemoryGameSPA.Mainmodule.js: 00:00:00.0011892
+2025-05-05 04:28:16.0055|TRACE|Program|Server sends: n: Writing $StartupCode_Client.js: 00:00:00.0012880
+2025-05-05 04:28:16.0055|TRACE|Program|Server sends: n: Writing $EntryPoint.js: 00:00:00.0011125
+2025-05-05 04:28:16.0055|TRACE|Program|Server sends: n: Writing .d.ts files: 00:00:00.0046862
+2025-05-05 04:28:16.0055|TRACE|Program|Server sends: n: Hashing resources: 00:00:00.0012695
+2025-05-05 04:28:16.2531|TRACE|Program|Server sends: n: Serializing metadata: 00:00:00.2356823
+2025-05-05 04:28:16.2724|TRACE|Program|Server sends: n: Writing resources into assembly: 00:00:00.0192585
+2025-05-05 04:28:16.5402|TRACE|Program|Server sends: n: Bundling: 00:00:00.2678369
+2025-05-05 04:28:16.6363|TRACE|Program|Server sends: x: 0
