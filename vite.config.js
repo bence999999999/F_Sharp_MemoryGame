@@ -4,6 +4,7 @@
     rollupOptions: {
       input: [
         "./Scripts/MemoryGameSPA.min.js"
+        "./Scripts/MemoryGameSPA.css"
       ]
     }
   }
